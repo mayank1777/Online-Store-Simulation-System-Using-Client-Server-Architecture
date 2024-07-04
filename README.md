@@ -1,2 +1,10 @@
-# Online-Store-Simulation-System-Using-Client-Server-Architecture
-Designed and implemented a terminal-based online store simulation using client-server architecture, leveraging socket programming for communication.
+## Online Store Simulation System Using Client-Server Architecture
+
+This project is a simulation of an online store that operates on a client-server model using socket programming. 
+
+## Prerequisites
+C socket programming
+
+## Authors
+- Mayank Sharma 
+- International Institude of Information Technology, Bangalore
